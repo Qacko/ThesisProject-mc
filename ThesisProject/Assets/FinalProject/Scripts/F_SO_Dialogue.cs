@@ -1,5 +1,5 @@
 using UnityEngine;
-[CreateAssetMenu(fileName = "New_dialogue", menuName = "Dialogue")] //creates a new file from this script
+//[CreateAssetMenu(fileName = "New_dialogue", menuName = "Dialogue")] //creates a new file from this script
 public class F_SO_Dialogue : ScriptableObject
 {
     //scriptable objects hold data for you
